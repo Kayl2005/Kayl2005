@@ -1,3 +1,12 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║             📝  HOW TO CUSTOMIZE THIS TEMPLATE              ║
+  ║  Search for every occurrence of "your-" and replace with    ║
+  ║  your real information.  Also update the tech-stack badges  ║
+  ║  and the "About Me" bullets to match your actual skills.    ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 # Hi there, I'm Kayl 👋
@@ -14,7 +23,7 @@
 - 🌱 I'm currently learning **Cloud Architecture & DevOps**
 - 👯 I'm looking to collaborate on **Full-Stack & Open Source projects**
 - 💬 Ask me about **Web Development, APIs, and System Design**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **your-email@example.com** <!-- replace with your email -->
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it 😄**
 
@@ -72,6 +81,7 @@
 
 ## 🌐 Connect With Me
 
+<!-- Replace each URL below with your actual social profile links -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
